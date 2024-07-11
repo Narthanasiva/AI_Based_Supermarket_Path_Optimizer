@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Weapon_detection_direct.weapon_detection_direct_packages.inference_image_weapon.weapon_detection_direct_packages" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
